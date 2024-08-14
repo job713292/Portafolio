@@ -36,7 +36,7 @@
     gap: 1px;
     width: 100%;
     justify-content: end;
-    font-size: 20px;
+    font-size: 19px;
 }
 
 .logo h1{
@@ -45,6 +45,7 @@
     color:aliceblue;
     width: 150px;
     padding-left: 40px;
+    font-size: 30px;
 }
 li{
     padding: 21px;
@@ -52,6 +53,7 @@ li{
 }
 li:hover{
     background-color: rgb(212, 19, 5);
+    transform: scale(1.1);
 }
 
 .logo:hover{
@@ -79,6 +81,6 @@ li:hover{
 }
 
 .c-1-1 h1{
-    color: #fac261;
+    color: #d41305;
     font-family: "Rowdies", sans-serif;
 }

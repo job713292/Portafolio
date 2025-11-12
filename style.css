@@ -22,11 +22,11 @@
        /* Fondo principal oscuro */
        --surface-color: #2a1414;
        /* Superficies de tarjetas y secciones */
-       --text-color: #f5f5f5;
+       --text-color: #ffffff;
        /* Texto principal */
        --primary-action: #e63946;
        /* Color principal: rojo fuerte */
-       --secondary-action: #f3722c;
+       --secondary-action: hsl(21, 89%, 56%);
        /* Color secundario: naranja/rojo para degradados */
    }
 
